@@ -45,7 +45,7 @@ I’m a Computer Science Graduate student & I’m passionate about translating p
 <details>
   <summary>Parallel Computing</summary>
   <ul>
-    <li><a href="GitHub or Live Project Link">Parallel Algorithms for Network Flow Problems</a> - Short description of the project.</li>
+    <li><a href="https://github.com/SlowDanger15/parallel_algo_network_flow">Parallel Algorithms for Network Flow Problems</a> - Short description of the project.</li>
     <li><a href="GitHub or Live Project Link">Project Name</a> - Short description of the project.</li>
   </ul>
 </details>
