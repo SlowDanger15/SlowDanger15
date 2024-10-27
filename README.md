@@ -34,7 +34,6 @@ I’m a Computer Science Graduate student & I’m passionate about translating p
 <li>Android App Development</li>
 <li>Data Analytics</li>
 
-
 ## 🚀 My Projects
 <details>
   <summary>Machine Learning</summary>
@@ -55,6 +54,13 @@ I’m a Computer Science Graduate student & I’m passionate about translating p
   - [Project Name](GitHub or Live Project Link) - Short description of the project.
   - [Project Name](GitHub or Live Project Link) - Short description of the project.
 </details>
+
+## 🛠 Skills
+
+- **Languages**: Python, JavaScript, Java, C/C++, CUDA C, Flutter (Dart), Rust, R.
+- **Frameworks/Technologies**: TensorFlow, PyTorch, LangChain, LangGraph, React, Node.js, Django, Opentelemetry, Autogen
+- **Tools**: Git, Docker, Jenkins, Kubernetes
+- **Databases**: MySQL, MongoDB
 
 ## 🏆 Hackathons
 <details>
