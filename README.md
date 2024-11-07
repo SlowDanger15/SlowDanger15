@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 ## 👨‍💻 About Me
-I'm a passionate Software Engineer, Developer and Scientist specializing in Artificial Intelligence, Machine Learning and Parallel Computing. I love working on open-source projects and am always eager to learn new things and take on new challenges.
+I'm a passionate Software Engineer, Developer and Scientist specializing in Artificial Intelligence, Machine Learning, Distributed Systems and Parallel Computing. I love working on open-source projects and am always eager to learn new things and take on new challenges.
 
 I’m a Computer Science Graduate student & I’m passionate about translating project visions and objectives into reality, offering tangible results in line with task expectations using specialized tech stacks. I’m adept with a plethora of concepts including 
 <li>Generative AI</li>
@@ -57,8 +57,8 @@ I’m a Computer Science Graduate student & I’m passionate about translating p
 
 ## 🛠 Skills
 
-- **Languages**: Python, JavaScript, Java, C/C++, CUDA C, Flutter (Dart), Rust, R.
-- **Frameworks/Technologies**: TensorFlow, PyTorch, LangChain, LangGraph, React, Node.js, Django, Opentelemetry, Autogen
+- **Languages**: Python, JavaScript, Go, Java, C/C++, CUDA C, Flutter (Dart), Rust, R.
+- **Frameworks/Technologies**: TensorFlow, PyTorch, LangChain, LangGraph, React, Node.js, Django, Opentelemetry, Autogen, CrewAI
 - **Tools**: Git, Docker, Jenkins, Kubernetes
 - **Databases**: MySQL, MongoDB
 
