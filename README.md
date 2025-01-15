@@ -50,6 +50,13 @@ I’m a Computer Science Graduate student & I’m passionate about translating p
 </details>
 
 <details>
+  <summary>Computer Architecture</summary>
+  <ul>
+    <li><a href="https://docs.google.com/document/d/1ekR-n7J6242EieYLJ3edgBjdo2WSVIB9Zuc5s74GT6A/edit?usp=sharing">Systolic Array Hardware Optimization</a> - Designed \& improved a 32x32 array architecture for Transformer Forward Pass, achieving 76.19\% hardware utilization.</li>
+  </ul>
+</details>
+
+<details>
   <summary>Computer Networks</summary>
   <ul>
     <li><a href="https://github.com/rpp5524/CSE_514_Project_rpp5524">Simulation of Routing Algorithms & Optimizations</a> - Developed a project to simulate and analyze the efficiency of various network routing algorithms.</li>
