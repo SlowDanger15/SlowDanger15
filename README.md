@@ -37,22 +37,31 @@ I’m a Computer Science Graduate student & I’m passionate about translating p
 ## 🚀 My Projects
 <details>
   <summary>Machine Learning</summary>
-  - [Project Name](GitHub or Live Project Link) - Short description of the project.
-  - [Project Name](GitHub or Live Project Link) - Short description of the project.
+   <ul>
+    <li><a href="">LLM Instruction Tuning to handle Trick Questions</a> - Short description of the project.</li>
+   </ul> 
 </details>
 
 <details>
   <summary>Parallel Computing</summary>
   <ul>
-    <li><a href="https://github.com/SlowDanger15/parallel_algo_network_flow">Parallel Algorithms for Network Flow Problems</a> - Short description of the project.</li>
-    <li><a href="GitHub or Live Project Link">Project Name</a> - Short description of the project.</li>
+    <li><a href="https://github.com/SlowDanger15/parallel_algo_network_flow">Parallel Algorithms for Network Flow Problems</a> - Implemented lock-free async push-relabel algorithm achieving 4x speedup.</li>
   </ul>
 </details>
 
 <details>
-  <summary>Mobile Apps</summary>
-  - [Project Name](GitHub or Live Project Link) - Short description of the project.
-  - [Project Name](GitHub or Live Project Link) - Short description of the project.
+  <summary>Computer Networks</summary>
+  <ul>
+    <li><a href="https://github.com/rpp5524/CSE_514_Project_rpp5524">Simulation of Routing Algorithms & Optimizations</a> - Developed a project to simulate and analyze the efficiency of various network routing algorithms.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>App Development</summary>
+  <ul>
+    <li><a href="https://github.com/SlowDanger15/citibank_final_app">Financial Services Application using Flutter</a> - Created an Android app offering financial services, including a stock price predictor \& loan check trained on 5 datasets</li>
+    <li><a href="https://github.com/SlowDanger15/personal_vult">Personal Note Vault App</a> - Developed an android app using Flutter that lets you create secure password storing locations with authentications.</li>
+  </ul>
 </details>
 
 ## 🛠 Skills
